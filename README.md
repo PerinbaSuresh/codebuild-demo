@@ -1,2 +1,2 @@
 # codebuild-demo
-AWS CodeBuild Demo app1
+AWS CodeBuild Demo app2
